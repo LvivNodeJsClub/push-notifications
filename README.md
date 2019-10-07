@@ -1,5 +1,7 @@
 # Push notifications
 
+Demo application to show how notifications work.
+
 ## Setup demo application
 
 ### Install
